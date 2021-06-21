@@ -1,5 +1,6 @@
 # UNICC-Internship-Work
 Internship work for United Nations International Computing Centre
+<br>
 October 7th 2019 - October 18th 2019
 
 ## Package Query
@@ -13,7 +14,7 @@ October 7th 2019 - October 18th 2019
 - to set up basis for a fusion middleware environment
 - error log version
 - change packages with either:
-    - ```os-linux-requiredpackages.text```
+    - ```os-linux-requiredpackages.txt```
     - ```os-linux6-packages.txt```
     - ```os-linux7-packages.txt```
 
