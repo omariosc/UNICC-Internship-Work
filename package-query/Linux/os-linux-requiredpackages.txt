@@ -1,0 +1,31 @@
+binutils-2.20.51.0.2-5.28.el6
+compat-libcap1-1.10-1
+compat-libstdc++-33-3.2.3-69.el6 for x86_64
+compat-libstdc++-33-3.2.3-69.el6 for i686
+gcc-4.4.4-13.el6
+gcc-c++-4.4.4-13.el6
+glibc-2.12-1.7.el6 for x86_64
+glibc-2.12-1.7.el6 for i686
+glibc-devel-2.12-1.7.el6 for i686
+libaio-0.3.107-10.el6
+libaio-devel-0.3.107-10.el6
+libgcc-4.4.4-13.el6 for x86_64
+libgcc-4.4.4-13.el6 for i686
+libstdc++-4.4.4-13.el6 for x86_64
+libstdc++-4.4.4-13.el6 for i686
+libstdc++-devel-4.4.4-13.el6
+libXext for x86_64
+libXext for i686
+libXtst for x86_64
+libXtst for i686
+openmotif-2.2.3 for x86_64
+openmotif22-2.2.3 for x86_64
+sysstat-9.0.4-11.el6
+zlib-1.2.3-29.el6.x86_64
+zlib-1.2.3-29.el6.i686
+ksh
+make-3.82
+numactl-2.0.9 for x86_64
+numactl-devel-2.0.9 for x86_64
+motif-2.3.4-7 for x86_64
+motif-devel-2.3.4-7 for x86_64

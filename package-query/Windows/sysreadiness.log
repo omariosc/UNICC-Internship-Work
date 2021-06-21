@@ -1,0 +1,24 @@
+Package Checks:
+binutils 64-bit version installed
+compat-libcap1 64-bit version installed
+gcc 64-bit version installed
+gcc-c++ 64-bit version installed
+glibc 64-bit version installed
+glibc-devel 64-bit version installed
+libaio 64-bit version installed
+libaio-devel 64-bit version installed
+libgcc 64-bit version installed
+libstdc++ 64-bit version installed
+libstdc++-devel 64-bit version installed
+libXext 64-bit version installed
+libXtst 64-bit version installed
+sysstat 64-bit version installed
+zlib 64-bit version installed
+ksh 64-bit version installed
+make 64-bit version installed
+
+Limit Checks:
+all limits met
+
+System Checks:
+all system components met

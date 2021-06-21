@@ -1,0 +1,17 @@
+binutils-2.20.51.0.2-5.28
+compat-libcap1-1.10-1
+gcc-4.4.4-13
+gcc-c++-4.4.4-13
+glibc-2.12-1.7
+glibc-devel-2.12-1.7
+libaio-0.3.107-10
+libaio-devel-0.3.107-10
+libgcc-4.4.4-13
+libstdc++-4.4.4-13
+libstdc++-devel-4.4.4-13
+libXext
+libXtst
+sysstat-9.0.4-11
+zlib-1.2.3-29
+ksh
+make-3.82
