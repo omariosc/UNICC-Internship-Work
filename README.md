@@ -4,6 +4,8 @@ Internship work for United Nations International Computing Centre
 <br>
 October 7th 2019 - October 18th 2019
 
+Developed two production ready scripts to automate the verification of the configuration of the production environments on the Linux systems using Python: a package query which verifies package installations to set up basis for a fusion middleware environment; a web logic system confirmation script which verifies listening and established ports.
+
 ## Package Query
 - Linux and Windows versions
 - verifies package installations
